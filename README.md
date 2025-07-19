@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <h3 align="center">Enthusiastic and detail-oriented fresher with a solid foundation in 
 <img align=”right” alt=”Code” width=”400” src=https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966>
-full-stack development, showcased through hands-on projects like the Lakeside Hotel Management System. Demonstrated proficiency in developing scalable backends using Spring Boot, and crafting responsive, dynamic frontends with React, Tailwind CSS, and Redux. Implemented features including reservation management, JWT authentication, and role-based access control, ensuring secure and user-friendly experiences. Passionate about applying these skills in a professional setting, while continuously learning and contributing to impactful software solutions.</h3>
+full-stack development, showcased through hands-on projects like the School Management System. Demonstrated proficiency in developing scalable backends using MongoDb, and crafting responsive, dynamic frontends with React, Tailwind CSS, and Redux. Implemented features including admission management, JWT authentication, and role-based access control, ensuring secure and user-friendly experiences. Passionate about applying these skills in a professional setting, while continuously learning and contributing to impactful software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav1103&label=Profile%20views&color=0e75b6&style=flat" alt="utsav1103" /> </p>
 
