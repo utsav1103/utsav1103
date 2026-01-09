@@ -35,4 +35,4 @@ full-stack development, showcased through hands-on projects like the School Mana
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsav1103&show_icons=true&locale=en" alt="utsav1103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav1103&" alt="utsav1103" /></p>
+<p><img align="center" src="https://github-readme-stats-eight-lovat-16.vercel.app/api?username=utsav1103&show_icons=true&theme=transparent&" alt="utsav1103" /></p>
