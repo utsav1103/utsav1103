@@ -14,7 +14,7 @@ full-stack development, showcased through hands-on projects like the School Mana
 </p>
 
 
-- 🔭 I’m currently working on [School_Management_System](https://github.com/utsav1103/School_Management_System)
+- 🔭 I’m currently working on [SELLIFY](https://github.com/utsav1103/SELLIFY.git)
 
 - 👨‍💻 All of my projects are available at [https://portfolio3d-eight-delta.vercel.app/](https://portfolio3d-eight-delta.vercel.app/)
 
